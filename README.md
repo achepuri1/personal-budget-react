@@ -1,1 +1,2 @@
-# personal-budget-react1
+# personal-budget-react
+personal-budget-react
